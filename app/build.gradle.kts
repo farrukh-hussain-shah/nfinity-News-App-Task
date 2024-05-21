@@ -46,6 +46,7 @@ dependencies {
 //    kapt(libs.glide.compiler) // for annotation processing
 
     implementation("com.github.bumptech.glide:glide:4.16.0")
+    implementation("com.facebook.shimmer:shimmer:0.5.0")
 
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.appcompat)
