@@ -26,7 +26,6 @@
             app:iconifiedByDefault="false"
             android:layout_width="match_parent"
             android:layout_height="?attr/actionBarSize">
-
         </androidx.appcompat.widget.SearchView>
         </androidx.cardview.widget.CardView>
         <androidx.recyclerview.widget.RecyclerView
