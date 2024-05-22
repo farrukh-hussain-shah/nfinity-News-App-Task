@@ -2,7 +2,7 @@ Dependencies:
         Pehle Retrofit, Coroutines, aur ViewModel ke liye dependencies implement ki hai
         
 Retrofit Instance:
-         Ek singleton class banate hain jo Retrofit instance create karti hai.
+         Ek class banate hain jo Retrofit instance create karti hai.
          
 API Interface:
             API endpoints ko define karte hain ek interface me.
